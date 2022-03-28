@@ -1,0 +1,18 @@
+body {
+    background-image: url("./img/img1.jpg");
+    background-repeat:round;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+.inputNC {
+    max-width: 20rem;
+}
+.inputN {
+    max-width: 8rem;
+} 
